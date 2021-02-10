@@ -61,7 +61,7 @@ Publish the website in the given URL.
     <div class="container">
         <div class="row align-items-end">
             <div class="col text-center">
-                Copyright © 2021 STARK Industries Limited, Developed by J Vincent isaac jeyaraj
+                Copyright © 2021 VI Private Limited, Developed by J Vincent isaac jeyaraj
             </div>
         </div>
     </div>
